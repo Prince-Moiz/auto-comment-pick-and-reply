@@ -66,7 +66,7 @@ Together, these projects demonstrate my ability to create **real-world automatio
 ### Setup & Run
 ```bash
 # Clone the repo
-git clone [https://github.com/your-username/twitter-autoreply-bot.git](https://github.com/Prince-Moiz/auto-comment-pick-and-reply.git)
+git clone https://github.com/Prince-Moiz/auto-comment-pick-and-reply.git
 cd twitter-autoreply-bot
 
 # Install dependencies
